@@ -198,6 +198,7 @@ module.exports = class gate extends Exchange {
                         'get': {
                             'deposit_address': 300,
                             'withdrawals': 300,
+                            'saved_address': 300,
                             'deposits': 300,
                             'sub_account_transfers': 300,
                             'withdraw_status': 300,
